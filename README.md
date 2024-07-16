@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Udemy-Code-Grabber</h1>
 
-<p align="center"><img src="https://socialify.git.ci/SafwanAyyan/Udemy-Code-Grabber/image?description=1&descriptionEditable=Udemy%20Code%20Grabber%20automatically%20enrolls%20you%20in%20premium%20Udemy%20courses%20for%20free%20by%20applying%20100%25%20discount%20coupons.%20With%20a%20user-friendly%20interface%20and%20advanced%20filters%2C%20this%20tool%20makes%20accessing%20quality%20education%20easy%20and%20efficient.%20Perfect%20for%20students%20and%20lifelong%20learners%20looking%20to%20expand%20their%20skills%20without%20breaking%20the%20bank!%20%F0%9F%8C%9F%0A%0A%0A%0A%0A%0A%0A&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/SafwanAyyan/Udemy-Code-Grabber/image?description=1&descriptionEditable=Software%20to%20enroll%20available%20Udemy%20Paid%2FFree%20courses%20using%20coupons%20automatically%20to%20your%20Udemy%20account&font=Source%20Code%20Pro&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light" alt="project-image"></p>
 <p align="center">
     <br/>
     <img src="https://forthebadge.com/images/badges/made-with-python.svg">
