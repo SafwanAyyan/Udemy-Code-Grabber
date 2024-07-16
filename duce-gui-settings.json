@@ -1,0 +1,59 @@
+{
+    "stay_logged_in": {
+        "auto": false,
+        "manual": false
+    },
+    "min_rating": 0.0,
+    "title_exclude": [],
+    "instructor_exclude": [],
+    "languages": {
+        "Arabic": false,
+        "Chinese": false,
+        "Dutch": false,
+        "English": true,
+        "French": false,
+        "German": false,
+        "Hindi": false,
+        "Indonesian": false,
+        "Italian": false,
+        "Japanese": false,
+        "Korean": false,
+        "Nepali": false,
+        "Polish": false,
+        "Portuguese": false,
+        "Romanian": false,
+        "Russian": false,
+        "Spanish": false,
+        "Thai": false,
+        "Turkish": false,
+        "Urdu": false
+    },
+    "categories": {
+        "Business": true,
+        "Design": true,
+        "Development": true,
+        "Finance & Accounting": true,
+        "Health & Fitness": false,
+        "IT & Software": true,
+        "Lifestyle": false,
+        "Marketing": false,
+        "Music": false,
+        "Office Productivity": false,
+        "Personal Development": true,
+        "Photography & Video": false,
+        "Teaching & Academics": false
+    },
+    "sites": {
+        "Real Discount": true,
+        "Discudemy": true,
+        "IDownloadCoupons": true,
+        "Tutorial Bar": true,
+        "E-next": true,
+        "Course Vania": true,
+        "Udemy Freebies": true
+    },
+    "email": "faforog136@sablecc.com",
+    "password": "Safwan02",
+    "save_txt": false,
+    "discounted_only": false
+}
