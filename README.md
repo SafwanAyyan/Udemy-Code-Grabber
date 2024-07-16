@@ -7,6 +7,7 @@
     <br/>
     <a href="https://github.com/techtanic/Discounted-Udemy-Course-Enroller"><img src="https://cdn.discordapp.com/attachments/823472016999972884/841661124410736710/standard_13.gif"></a>
 </p>
+
 # Discounted Udemy Course Enroller
 
 > Software to enroll in available Udemy Paid/Free courses having coupons automatically to your Udemy account.
