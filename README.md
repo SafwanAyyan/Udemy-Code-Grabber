@@ -9,7 +9,7 @@
     <a href="https://github.com/SafwanAyyan/Udemy-Code-Grabber"><img src="https://cdn.discordapp.com/attachments/823472016999972884/841661124410736710/standard_13.gif"></a>
 </p>
 
-# Udemy Code Grabber
+# Udemy Code Grabber 🎓💻
 
 > 🚀 Enroll in Udemy courses with 100% discount coupons automatically! Made with ❤️ for students and learners.
 
@@ -57,11 +57,9 @@
 
 ## 📷 Screenshots
 
-![Login](https://cdn.discordapp.com/attachments/823472016999972884/834051177792274452/unknown.png)
-
-![Course Selection](https://cdn.discordapp.com/attachments/823472016999972884/834051201342373888/unknown.png)
-
-![Advanced Options](https://cdn.discordapp.com/attachments/823472016999972884/834051568554737674/unknown.png)
+![Login](./image/Screenshot%202024-07-16%20230016.png)
+![Course Selection](./image/Screenshot%202024-07-16%20230032.png)
+![Advanced Options](./image/Screenshot%202024-07-16%20230039.png)
 
 ## 🌍 Benefits
 
