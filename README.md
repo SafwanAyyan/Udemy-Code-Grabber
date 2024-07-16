@@ -55,6 +55,14 @@
       python gui.py
       ```
 
+## 📷 Screenshots
+
+![Login](https://cdn.discordapp.com/attachments/823472016999972884/834051177792274452/unknown.png)
+
+![Course Selection](https://cdn.discordapp.com/attachments/823472016999972884/834051201342373888/unknown.png)
+
+![Advanced Options](https://cdn.discordapp.com/attachments/823472016999972884/834051568554737674/unknown.png)
+
 ## 🌍 Benefits
 
 - 🌟 **Access to Free Education**: Empower students with limited resources to access valuable content.
